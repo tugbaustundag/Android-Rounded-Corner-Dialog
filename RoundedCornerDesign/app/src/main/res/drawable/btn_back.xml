@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="35dp" />
+    <!--Border rengini tanımlama-->
+    <stroke android:width="2dp" android:color="#ff4b06" />
+    <!--Background(arkaplan) rengini tanımlama-->
+    <solid android:color="#FF7B21" />
+</shape>
